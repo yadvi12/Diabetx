@@ -20,7 +20,7 @@
 *  Read [Community Guidelines](<https://github.com/yadvi12/Diabetx/blob/main/CONTRIBUTING.md>) for all
    kinds of ways to contribute to and interact with the project,
    including how to submit bug reports and
-   code to Lariox.
+   code to Diabetx.
 *  Submit a proposed code update through a pull request to the ``master`` branch.
 *  Talk to us before making larger changes
    to avoid duplicate efforts. This not only helps everyone
