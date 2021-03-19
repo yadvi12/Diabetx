@@ -1,4 +1,4 @@
 # Diabetx-
 A diabetes prediction webapp
 
-![image.png]
+![image.PNG]
