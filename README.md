@@ -1,10 +1,9 @@
-## Diabetx
-### Take the Insulin
+## Diabetx - Take the Insulin
 
 ![](image.PNG)
 
 
-## Tech Stacks Used:
+### Tech Stacks Used:
 
 - HTML
 - CSS
