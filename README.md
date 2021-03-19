@@ -1,13 +1,5 @@
 ## Diabetx - Take the Insulin
- 
- <div>  
-    
-  ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
-  ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
- 
-  
 
-</div>
 
 ![](image.PNG)
 
