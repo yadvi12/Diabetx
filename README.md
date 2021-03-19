@@ -4,7 +4,7 @@
     
   ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
   ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-  ![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)
+ 
   
 
 </div>
