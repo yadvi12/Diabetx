@@ -6,7 +6,7 @@ app = Flask("dismodelapp")
 
 model = load_model('dia_model.h5')
 
-@app.route("/predict")
+@app.route("/")
 def predict():
     return render_template("index.html")
 
