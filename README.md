@@ -15,6 +15,36 @@
 - Tensorflow
 - Deep Learning
 
+### Get Started
+
+- Set up a virtual environment to use for our application.
+```sh
+conda create -n myenv python=3.8
+```
+- You then need to activate the environment created.
+```sh
+conda activate myenv
+```
+- Install required libraries:
+```sh
+pip install flask
+pip install keras
+pip install tensorflow
+```
+- Create a new working directory for the project
+```sh
+mkdir new-ws
+```
+- Cd to the workspace and clone the git repo.
+```sh
+cd new-ws
+git clone [URL]
+```
+- Run the app in local environment using python
+```sh
+python app.py
+```
+
 ### Get Involved
 
 *  Read [Community Guidelines](<https://github.com/yadvi12/Diabetx/blob/main/CONTRIBUTING.md>) for all
