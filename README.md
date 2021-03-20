@@ -1,6 +1,9 @@
 ## Diabetx - Take the Insulin
 Diabetes is among critical diseases and lots of people are suffering from this disease. Age, obesity, lack of exercise, hereditary diabetes, living style, bad diet, high blood pressure, etc. can cause Diabetes. People having diabetes have high risk of diseases like heart disease, kidney disease, stroke, eye problem, nerve damage, etc.
 
+Deep learning with neural networks is used to predict the probability of having diabetes in the future. Based on the feature importance:
+Glucose is the most important factor in determining the onset of diabetes followed by BMI and Age.
+Other factors such as Diabetes Pedigree Function, Pregnancies, Blood Pressure, Skin Thickness and Insulin also contributes to the prediction.
 
 ![](image.PNG)
 ![](image_2.PNG)
