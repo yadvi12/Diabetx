@@ -44,6 +44,7 @@ git clone [URL]
 ```sh
 python app.py
 ```
+7) Head over to http://127.0.0.1:5000/ to check the web-app.
 
 ### Get Involved
 
